@@ -1,0 +1,21 @@
+body {
+  
+  background: black;
+
+  background-image:"humo.jpg";
+
+  text-align: center;
+
+ }
+
+ * {
+  box-sizing: border-box;
+}
+
+ h2 {
+  color: white;
+ }
+
+button  {
+  color: dodgerblue
+}
